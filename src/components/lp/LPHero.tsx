@@ -15,8 +15,8 @@ const LPHero = ({
   title,
   subtitle,
   ctaText = "Simular Agora",
-  whatsappNumber = "5521222117070",
-  whatsappMessage = "Olá! Gostaria de simular meu empréstimo consignado.",
+  whatsappNumber = "5521923670807",
+  whatsappMessage = "Olá! Vim pela Landing Page",
   heroImage,
   badge,
 }: LPHeroProps) => {

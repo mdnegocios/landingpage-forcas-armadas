@@ -6,8 +6,8 @@ interface WhatsAppFloatProps {
 }
 
 const WhatsAppFloat = ({
-  number = "5521222117070",
-  message = "Olá! Gostaria de mais informações.",
+  number = "5521923670807",
+  message = "Olá! Vim pela Landing Page",
 }: WhatsAppFloatProps) => {
   const url = `https://wa.me/${number}?text=${encodeURIComponent(message)}`;
 

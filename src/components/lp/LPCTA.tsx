@@ -12,8 +12,8 @@ interface LPCTAProps {
 const LPCTA = ({
   title,
   subtitle,
-  whatsappNumber = "5521222117070",
-  whatsappMessage = "Olá! Gostaria de mais informações.",
+  whatsappNumber = "5521923670807",
+  whatsappMessage = "Olá! Vim pela Landing Page",
   phoneNumber = "(21) 2221-1707",
 }: LPCTAProps) => {
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
